@@ -1,2 +1,3 @@
-# ScratchExts
-Continuing the old abandon Scratchexts
+Just moved to github.com/ScratchExtensions
+#
+https://scratchextensions.github.io/extensions/
