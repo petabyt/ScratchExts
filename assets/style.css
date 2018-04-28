@@ -66,7 +66,16 @@ li a:hover {
 	animation-name: button;
 }
 #extension {
-	width: 100px;
+	margin-top: 20px;
+	margin-right: 20px;
+	width: 400px;
+	height: 150px;
+	border: 2px solid lightgrey;
+	display: block;
+}
+#extension img {
+	width: 35%;
+	float: left;
 }
 @keyframes button {
     from {background: #46b6e2;}
