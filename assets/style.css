@@ -74,7 +74,7 @@ li a:hover {
 	display: block;
 }
 #extension img {
-	width: 35%;
+	width: 150px;
 	float: left;
 }
 @keyframes button {
