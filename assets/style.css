@@ -40,7 +40,7 @@ li a:hover {
 	margin-top: 50px;
 }
 .sub-header {
-	margin-top: -70px;
+	margin-top: -50px;
 	font-size: 24px;
 	margin-bottom: 70px;
 }
@@ -63,6 +63,9 @@ li a:hover {
 	background: #1dace5;
 	animation-duration: .5s;
 	animation-name: button;
+}
+#extension {
+	width: 100px;
 }
 @keyframes button {
     from {background: #46b6e2;}
