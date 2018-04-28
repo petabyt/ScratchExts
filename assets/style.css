@@ -71,11 +71,15 @@ li a:hover {
 	width: 400px;
 	height: 150px;
 	border: 2px solid lightgrey;
-	display: block;
+	padding: 5px 5px;
 }
 #extension img {
 	width: 150px;
 	float: left;
+}
+#extension .button {
+	margin-top: 10px;
+	display: inline-flex;
 }
 @keyframes button {
     from {background: #46b6e2;}
